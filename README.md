@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **Python, Power BI, and Machine Learning**
 
-- 📫 How to reach me **offhimey@gmail.com**
+- 📫 How to reach me **himaysankhe07@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
