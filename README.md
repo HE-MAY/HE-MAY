@@ -3,20 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=he-may&label=Profile%20views&color=0e75b6&style=flat" alt="he-may" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=he-may" alt="he-may" /></a> </p>
-
 - 🔭 I’m currently working on **Disease Detection in Tilapia Fish**
-
 - 🌱 I’m currently learning **Advanced frameworks and tools like TensorFlow, Power BI, and Flask.**
-
 - 👯 I’m looking to collaborate on **Innovative AI/ML projects**
-
-- 🤝 I’m looking for help with **Advanced Data Visualization Projects**
-
 - 👨‍💻 All of my projects are available at [https://github.com/HE-MAY](https://github.com/HE-MAY)
-
-- 💬 Ask me about **Python, Power BI, and Machine Learning**
-
 - 📫 How to reach me **himaysankhe07@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
